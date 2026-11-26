@@ -44,3 +44,6 @@ next-env.d.ts
 
 # business documents, not app source
 *.pdf
+
+/test-results/
+/playwright-report/
